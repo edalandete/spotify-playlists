@@ -1,0 +1,18 @@
+.header-container{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 85px;
+    background-color: #282828;    
+    width: 100%;
+
+    .icon {
+        margin: 30px;
+        margin-left: 30px;
+        align-self: center;
+        border-radius: 50%;
+        width: 75px;
+        height: 75px;
+    }
+}
+
