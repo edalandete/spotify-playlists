@@ -9,7 +9,7 @@ Dream Playlist: the list specially made for you.
 *To run program in WINDOWS: HTTPS=true npm start
 *To run program in MAC or Linux: export HTTPS=true&& npm start
 
-*This project is WIP so the final version it's not available yet.
+*This project is WIP so the final version is not available yet.
 
 *This project is also made with Gemma Teixidó.
 
