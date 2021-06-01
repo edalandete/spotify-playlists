@@ -1,4 +1,4 @@
-# spotify-playlists
+# spotify-dream-playlist
 
 Dream Playlist: the list specially made for you. 
 
